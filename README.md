@@ -1,2 +1,4 @@
 # wave-equation
-Simple Wave Equation Animation using JavaScript
+
+[View Deployment](https://antonioberna.github.io/wave-equation)
+

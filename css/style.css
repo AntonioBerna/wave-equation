@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+}
+
+canvas {
+    position: absolute;
+    width: 100vw;
+    height: 100vh;
+    image-rendering: pixelated;
+}
+
+img {
+    filter: invert(0.85)
+            sepia(1)
+            saturate(4)
+            drop-shadow(0 0 10px black)
+            drop-shadow(0 0 10px black)
+            drop-shadow(0 0 7px black)
+            drop-shadow(0 0 7px black)
+            drop-shadow(0 0 3px black)
+            drop-shadow(0 0 3px black);
+    position: absolute;
+    left: 170px;
+    bottom: 50px;
+    transform: scale(2);
+}
